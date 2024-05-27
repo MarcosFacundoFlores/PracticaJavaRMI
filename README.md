@@ -14,3 +14,5 @@ Todo debe mantenerse ejecutado a la vez
 
 
 En el ejercicioD le tuve que mandar 1100 el puerto asiq tienen que hacer "rmiregistry 1100 &"
+
+ejercicioE puerto puerto 1102
